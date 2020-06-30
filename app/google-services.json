@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365829758204",
+    "firebase_url": "https://firedb-a1ac3.firebaseio.com",
+    "project_id": "firedb-a1ac3",
+    "storage_bucket": "firedb-a1ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365829758204:android:d12a1c41e865030d3bcb79",
+        "android_client_info": {
+          "package_name": "com.example.firedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365829758204-a2gvqamk00451e2rl5qvegg4vktvsoeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QryJWupnKyKkfQRkmVejDfgjDRprdBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365829758204-a2gvqamk00451e2rl5qvegg4vktvsoeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

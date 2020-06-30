@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FireDB</string>
+    <array name="genre">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Metal</item>
+        <item>Melody</item>
+        <item>Jazz</item>
+
+    </array>
+</resources>
